@@ -1,0 +1,49 @@
+{
+    "foods" : [
+        {
+            "itemId": "01italian",
+            "name": "Deluxe Pizza",
+            "des": "Chef's special pizza, wood fried in italian oven",
+            "img": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3200&q=80",
+            "size": "12 in,",
+            "weight": "400 g",
+            "price": 15
+        },
+        {
+            "itemId": "02Portuguese",
+            "name": "Peri peri burger🌶🌶",
+            "des": "Signature spicy Peri peri chicken burger served with Salsa dip(available in a variety of spice range) ",
+            "img": "https://images.unsplash.com/photo-1578861256457-58a1992429f7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80",
+            "size": "5 in,",
+            "weight": "250 g",
+            "price": 20
+        },
+        {
+            "itemId": "03Indian",
+            "name": "Chickpea curry(V)🌱",
+            "des": "Try out some of the finest chickpea curry served with aromatic rice!",
+            "img": "https://images.unsplash.com/photo-1516714435131-44d6b64dc6a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80",
+            "size": "8 in,",
+            "weight": "80 grams",
+            "price": 18
+        },
+        {
+            "itemId": "04healthy",
+            "name": "Healthy bowl",
+            "des": "A balanced healthy meal to keep you up and running",
+            "img": "https://images.unsplash.com/photo-1590288488147-f46142daf112?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1398&q=80",
+            "size": "8 in,",
+            "weight": "400 grams",
+            "price": 30
+        },
+        {
+            "itemId": "05desert",
+            "name": "Mango muffins",
+            "des": "Refreshing new mango muffins with rich creamy flavour",
+            "img": "https://images.unsplash.com/photo-1559716229-d8f4e9d01ec6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80",
+            "size": "2 in,",
+            "weight": "150 grams",
+            "price": 20
+        }
+    ]
+}
